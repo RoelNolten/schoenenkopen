@@ -33,7 +33,7 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="#"><?php echo gethostname(); ?>
+            <a class="nav-link" href="#">roel Nolten
               <span class="sr-only">(current)</span>
             </a>
           </li>
